@@ -17,3 +17,7 @@
 
 venv/
 
+.DS_Store
+.ipynb_checkpoints/COVID Mortality Data Exploration-checkpoint.ipynb
+
+Data/
