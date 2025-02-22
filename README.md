@@ -1,6 +1,6 @@
-# covid-mortality-admissions
- Mortality from COVID-19, by cause, in Ontario Canada from January 15, 2020 to November 14, 2024. 
+# covid-admissions
+Hospitalizations from COVID-19 in Ontario Canada from January 2022 to November 14, 2024. 
  
- Data available at https://data.ontario.ca/dataset/deaths-involving-covid-19-by-fatality-type 
- 
+https://data.ontario.ca/dataset/breakdown-of-covid-19-positive-hospital-admissions/resource/d1199d1b-dc82-4e63-bb80-5c715e97a127 
+
  Created for AI4PH Course in Data Science Tools, Winter 2025
