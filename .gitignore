@@ -1,0 +1,19 @@
+# .gitignore file to not upload data and venv to Github
+
+*.csv
+*.exe
+*.xlsx
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.log
+
+venv/
+
