@@ -21,3 +21,4 @@ venv/
 .ipynb_checkpoints/COVID Mortality Data Exploration-checkpoint.ipynb
 
 Data/
+.ipynb_checkpoints/COVID Hospitalization Data Exploration-checkpoint.ipynb
